@@ -42,6 +42,9 @@ The landing page of the app has a 'drop-down' menu where the user selects the ty
 <img src ="https://github.com/Dhruv-194/BasicMoviesApp/blob/master/basicmoviesapp-android.gif" width ="200" height="400"/>
 
 ## What next? 
-
+- Updating the app by using fragments instead of activities.
+- Updating the UI of the app. Using a tablayout instead of the 'drop-down' menu.
+- Implementing a searching functionality by having a search bar to search among the list of the movies.
+- Use dependency injection to make app more stable.
 
 
