@@ -39,7 +39,9 @@ The landing page of the app has a 'drop-down' menu where the user selects the ty
 - Glide Library : to display images from the api.
 
 ## Demo 
+<img src ="https://github.com/Dhruv-194/BasicMoviesApp/blob/master/basicmoviesapp-android.gif" width ="200" height="400"/>
 
 ## What next? 
+
 
 
